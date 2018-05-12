@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4805
     wikipedia: http://fi.wikipedia.org/wiki/J._H._Erkko
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13063#Kootut-teokset-I--Runoelmia-1868-1885
 gutenberg_issued: '2004-07-30'
 gutenberg_type: Text
 identifiers:
